@@ -1,4 +1,4 @@
-torch==2.0.1
+torch==1.7.1
 faiss-cpu==1.7.2
 opencv-python==4.8.0.74
 pydub==0.25.1
