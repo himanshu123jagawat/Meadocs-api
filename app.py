@@ -64,7 +64,7 @@ video_transform = transforms.Compose([
 # Audio Module Setup (Vosk)
 UPLOAD_FOLDER = "uploads"
 TRANSCRIPTIONS_FOLDER = os.path.join(UPLOAD_FOLDER, "transcriptions")
-MODEL_PATH = "/Users/lakshyadivekar/Downloads/vosk-model-en-us-0.42-gigaspeech"
+MODEL_PATH = "/app/vosk-model"
 SUPPORTED_FORMATS = (".mp3", ".wav", ".m4a", ".flac")
 os.makedirs(TRANSCRIPTIONS_FOLDER, exist_ok=True)
 
