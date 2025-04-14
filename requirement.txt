@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+torch
+faiss-cpu
+opencv-python
+pydub
+pdfplumber
+transformers
+sentence-transformers
+pytesseract
+vosk
+fuzzywuzzy
+Pillow
+clip-by-openai
