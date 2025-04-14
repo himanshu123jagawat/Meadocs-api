@@ -1,14 +1,14 @@
 fastapi
 uvicorn
-torch>=1.7.1,<2.0.0
+torch==1.7.1
 faiss-cpu
 opencv-python
 pydub
 pdfplumber
 transformers
-sentence-transformers>=0.2.0
+sentence-transformers==0.2.6
 pytesseract
 vosk
 fuzzywuzzy
 Pillow
-clip-by-openai>=1.1
+clip-by-openai==1.1
